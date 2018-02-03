@@ -1,0 +1,6 @@
+A = 2;
+C = foo(1, A)
+print("C:" + C);
+foo = function(double A, double B) return (double C) {
+    C = A + B;
+}
