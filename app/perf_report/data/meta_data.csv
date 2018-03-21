@@ -1,0 +1,9 @@
+Author, Date, Release, Hardware, Backend, Dataset_Size, Total_Time
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_100, 1096.87
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_100, 1135.11
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_100, 1218.42
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_100, 1553.03
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_1k, 2041.10
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_1k, 2072.71
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_1k, 2072.71
+krishna, 21/3/2018, 1.1.0, c5.xlarge, singlenode, 10k_1k, 1970.30

@@ -1,0 +1,12 @@
+name: SystemML
+title: SystemML
+username:
+account: kkalyan3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 304248
+bundleId: 1279953
+url: https://kkalyan3.shinyapps.io/SystemML/
+when: 1521622153.98208
+asMultiple: FALSE
+asStatic: FALSE
